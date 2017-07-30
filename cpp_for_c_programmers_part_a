@@ -1,4 +1,4 @@
-//[ C++ for C programmers - part A
+// C++ for C programmers - part A
 // 4.11 C++ feature: for statement
 
 for (double d : data) {
